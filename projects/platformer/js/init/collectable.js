@@ -36,8 +36,8 @@
         
         // example: 
         collectable.create(type.steve, 200, 170, 6,);
-        collectable.create(type.steve, 650, 20);
-        collectable.create(type.steve, 700, 600);
+        collectable.create(type.max, 650, 20);
+        collectable.create(type.db, 700, 600);
         
         
         
